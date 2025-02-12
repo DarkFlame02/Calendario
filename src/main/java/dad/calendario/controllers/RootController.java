@@ -19,7 +19,7 @@ public class RootController implements Initializable {
 
     // model
 
-    IntegerProperty anyo = new SimpleIntegerProperty(2025);
+    private IntegerProperty anyo = new SimpleIntegerProperty(2025);
 
     // view
 
